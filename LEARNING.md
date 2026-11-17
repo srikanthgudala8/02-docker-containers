@@ -15,7 +15,7 @@ multi-container apps with Compose, and push images to a registry.
 - **Do:** `docker run`, `ps`, `logs`, `exec -it`, `stop`, `rm`, `images`, `pull`, `inspect`, flags `-d -p -e --name --rm`.
 - **Lab:** run `nginx`, publish port 8080, `exec` into it and edit the page, then show the change is lost when the container is recreated (this motivates volumes).
 - **Done when:** you can explain to a non-technical friend why a container is not a VM.
-- **AVD link:** compare to what you know about session hosts: a VM per user vs shared kernel, density and isolation trade-offs.
+- **Server link:** compare containers with VMs: a full OS per VM vs a shared kernel, density and isolation trade-offs.
 
 ### Day 14 - Images and Dockerfiles
 - **Learn:** `FROM`, `RUN`, `COPY`, `WORKDIR`, `ENV`, `EXPOSE`, `CMD` vs `ENTRYPOINT`, layers and the build cache, `.dockerignore`.

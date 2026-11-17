@@ -1,6 +1,6 @@
 # 02 - Docker and Containers
 
-Phase 2 of the 60-day journey from AVD support engineer to DevOps engineer.
+Phase 2 of the 60-day journey from support engineer to DevOps engineer.
 Day-by-day plan: **[LEARNING.md](LEARNING.md)** (Days 13-18).
 
 ## Project: three-tier visit counter
